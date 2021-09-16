@@ -15,7 +15,7 @@
 	    "body": [
             "\"\"\"",
             "//js",
-            ";//!js",
+            ";//",
             "\"\"\""
 	    ],
 	    "description": "javascript highlighted string"

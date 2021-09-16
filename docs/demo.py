@@ -9,11 +9,8 @@ app.clientside_callback(
                 window.print();
             }
         }
-        
-
-
     }
-    ;//!js
+    ;//
     """,
     Output("window_print_output_placeholder", "data"),
     Input('download-btn', 'n_clicks')

@@ -2,7 +2,7 @@
     "name": "python-string-syntax-highlight",
     "displayName": "Javascript Syntax Highlighting in Python Strings",
     "description": "highlight python strings as javascript, SQL, or HTML",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "stevenallenking",
     "icon": "docs/logo.png",
     "repository": {
