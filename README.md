@@ -21,10 +21,13 @@ begin typing `js` or `sql` and the autocomplete snippet will appear
 - Forked from python-string-sql
 
 ## Release Notes
+### [0.1.2] - 2021-10-01
+- Updated package.json display name and keywords
 
 
-### [0.0.1] - 2021-09-15
-- Got it working based on [these instructions](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)
+### [0.0.1] - 2021-09-16
+- Published on VS Code marketplace
+
 
 ### [0.0.0] - 2021-09-14
 
